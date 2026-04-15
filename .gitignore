@@ -1,0 +1,9 @@
+bandcamp_downloader.egg-info/
+build/
+__pycache__/
+*.log
+
+# Tauri app
+app/node_modules/
+app/dist/
+app/src-tauri/target/
